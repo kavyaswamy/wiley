@@ -1,5 +1,4 @@
-package day4assgn;
+public enum AccountType {
 
-public class AccountType {
-
+	savings, currentAccount;
 }
